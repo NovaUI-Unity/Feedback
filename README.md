@@ -11,12 +11,13 @@
 
 </div>
 
-[**Bugs**](https://github.com/NovaUI-Unity/Feedback/discussions/categories/bugs) | [**Feature Requests**](https://github.com/NovaUI-Unity/Feedback/discussions/categories/feature-requests) | [**Questions**](https://github.com/NovaUI-Unity/Feedback/discussions/categories/questions)
+[**Bugs**](https://github.com/NovaUI-Unity/Feedback/discussions/categories/bugs) | [**Feature Requests**](https://github.com/NovaUI-Unity/Feedback/discussions/categories/feature-requests)
 
 # 
 
 Welcome to the [Nova](https://novaui.io/) feedback repo. 
 
-Please use the [Discussions](https://github.com/NovaUI-Unity/Feedback/discussions) to file [bugs](https://github.com/NovaUI-Unity/Feedback/discussions/categories/bugs), [request features](https://github.com/NovaUI-Unity/Feedback/discussions/categories/feature-requests), or [ask questions](https://github.com/NovaUI-Unity/Feedback/discussions/categories/questions).
+Please use the [Discussions](https://github.com/NovaUI-Unity/Feedback/discussions) to file [bugs](https://github.com/NovaUI-Unity/Feedback/discussions/categories/bugs) or [request features](https://github.com/NovaUI-Unity/Feedback/discussions/categories/feature-requests).
 
-NOTE: These discussions are a way for the community to file bugs, request features, provide feedback, and ask questions to the Nova development team. Please see the [Community forum](https://github.com/NovaUI-Unity/Community) for the community-driven forums.
+NOTE: These discussions are a way for users to file bugs, request features, and provide feedback to the Nova development team.
+Please see the [Community forum](https://github.com/NovaUI-Unity/Community) to ask questions, get Unity-related help, and share with the Nova community!
